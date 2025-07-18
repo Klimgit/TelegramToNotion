@@ -1,8 +1,8 @@
 package bot
 
 import (
-	"log"
 	"TelegramToNotion/internal/notion"
+	"log"
 	"strconv"
 	"strings"
 
