@@ -1,9 +1,9 @@
 package main
 
 import (
+	"TelegramToNotion/internal/bot"
+	"TelegramToNotion/internal/config"
 	"log"
-	"notion-bot/internal/bot"
-	"notion-bot/internal/config"
 )
 
 func main() {
